@@ -13,8 +13,16 @@ function llegirProductes() {
         
     }
 
-function mostrarProducte(producte)
+function mostrarProducte(producte) {
+    console.log('Mostrar Producte)
+}
 
-function mostrarProductes(productes)
+function mostrarProductes(productes) {
+    productes.forEach(producte => { 
+        mostrarProducte(producte);
+    });
+}
 
-function mostrarProducteID(producte, id)
+function mostrarProducteID(producte, id) {
+
+}
