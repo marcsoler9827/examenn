@@ -23,6 +23,6 @@ function mostrarProductes(productes) {
     });
 }
 
-function mostrarProducteID(producte, id) {
-
+function mostrarProducteID(productes, id) {
+    const producte = productes.find(producte => producte.id === id);
 }
