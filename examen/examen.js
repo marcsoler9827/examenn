@@ -14,7 +14,9 @@ function llegirProductes() {
     }
 
 function mostrarProducte(producte) {
-    console.log('Mostrar Producte)
+    console.log('ID: ${producte.id}, Nom: ${producte.nom}, Marca: ${producte.marca, Categoria: ${producte.categoria}, Preu: ${producte.preu}, Disponible: ${producte.disponible}');
+    console.log('Caracteristiques: ', producte.caracteristiques);
+
 }
 
 function mostrarProductes(productes) {
