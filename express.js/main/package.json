@@ -1,0 +1,16 @@
+{
+    "name": "modular-app",
+    "version": "1.0.0",
+    "description": "Aplicació modularitzada amb Express.js",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.21.1"
+    },
+    "type": "module",
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}

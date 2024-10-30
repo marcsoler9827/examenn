@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Ahri",
+    "role": "Mage",
+    "skill": "Orb of Deception",
+    "attack": 55,
+    "region": "Ionia",
+    "image": "https://example.com/ahri.jpg"
+  },
+  {
+    "name": "Darius",
+    "role": "Fighter",
+    "skill": "Noxian Guillotine",
+    "attack": 80,
+    "region": "Noxus",
+    "image": "https://example.com/darius.jpg"
+  },
+  {
+    "name": "Lux",
+    "role": "Mage",
+    "skill": "Final Spark",
+    "attack": 50,
+    "region": "Demacia",
+    "image": "https://example.com/lux.jpg"
+  },
+  {
+    "name": "Jinx",
+    "role": "Marksman",
+    "skill": "Super Mega Death Rocket",
+    "attack": 70,
+    "region": "Zaun",
+    "image": "https://example.com/jinx.jpg"
+  },
+  {
+    "name": "Rell",
+    "role": "test",
+    "skill": "test",
+    "attack": 50,
+    "region": "test",
+    "image": "https://example.com/jinx.jpg"
+  },
+  {
+    "name": "Marc",
+    "role": "test",
+    "skill": "x",
+    "attack": 50,
+    "region": "test",
+    "image": "https://example.com/darius.jpg"
+  }
+]
